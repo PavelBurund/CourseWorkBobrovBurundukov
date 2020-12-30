@@ -1,0 +1,22 @@
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\bin\Debug\rasp.exe
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\bin\Debug\rasp.pdb
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\Book.csprojAssemblyReference.cache
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\rasp.Form1.resources
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\rasp.Form2.resources
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\rasp.Form3.resources
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\rasp.Properties.Resources.resources
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\Book.csproj.GenerateResource.cache
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\Book.csproj.CoreCompileInputs.cache
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\rasp.exe
+D:\Университет ЛЭТИ\3 курс\ООП\пее\telephone_book-master\rasp\obj\x86\Debug\rasp.pdb
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\bin\Debug\rasp.exe
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\bin\Debug\rasp.pdb
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\Book.csprojAssemblyReference.cache
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\rasp.Properties.Resources.resources
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\Book.csproj.GenerateResource.cache
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\Book.csproj.CoreCompileInputs.cache
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\rasp.exe
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\rasp.pdb
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\cf.Form1.resources
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\cf.Form2.resources
+D:\Университет ЛЭТИ\3 курс\ООП\Курсовая работа\rasp\obj\x86\Debug\cf.Form3.resources
